@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anusairam
 - 👀 I’m interested in extracting actionable insights from complex data sets,leveraging machine learning algorithms and data visualization techniques to drive informed decision-making
-- 🌱 I’m currently learning Advance AI AND Machine Learning
+- 🌱 I’m a IBM Certified Data Scientist who loves to leverage statistical analysis and predictive modeling techniques to forecast trends and improve operational efficiency
 - 💞️ I’m looking to collaborate on a variety of projects and initiatives that involve data analysis,modeling, and decision-making
 - 📫 How to reach me mail id:anusairam2001@gmail.com
 - 😄 Pronouns: ...
